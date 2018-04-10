@@ -1,0 +1,5 @@
+package com.kokihoon.models;
+
+public class Board {
+
+}
